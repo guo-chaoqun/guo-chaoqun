@@ -59,4 +59,5 @@
 
 - 邮箱：**168314684@qq.com**
 - 求职：AI 产品经理 / AI 产品运营（可立即到岗 · 全职）
+- 简历：[简历 PDF · 下载](https://xcnaaqfol96z.feishu.cn/file/Vxogbu9pro26zmxdydWcxugynM0)
 - 作品集：[AI 产品经理作品集 · 飞书文档](https://xcnaaqfol96z.feishu.cn/docx/UDmldSWS2oKykaxUrUOcojobnwl)
