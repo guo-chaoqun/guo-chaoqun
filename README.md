@@ -1,4 +1,4 @@
-## 你好，我是郭超群
+# 你好，我是郭超群
 
 **目标岗位：大模型评测工程师 / AI 评测工程师** · 信息与计算科学 · 2026 届
 
@@ -27,11 +27,15 @@
 
 **[电商智能客服 · AI 评测体系从 0 到 1](https://github.com/guo-chaoqun/ecommerce-ai-customer-service)**
 
+![RAG 评测仪表盘](img/rag-dashboard.png)
+
 505 条评测用例（6 业务分支 × 5 类测试）｜ 规则 + LLM Judge 双通道判分 ｜ 43 条失败用例归因出 8 类根因，72.1% 集中于误路由
 
 通过率 91.5% → 97.0%，幻觉率 8.3% → 2.6%，边界混淆场景 63.6% → 77.3%，McNemar p=0.02 统计验证
 
 **[AI 穿搭导购 · 服饰 AIGC 评测与质量工程](https://github.com/guo-chaoqun/ai-stylist-advisor)**
+
+![AI 穿搭导购首页](img/outfit-home.jpeg)
 
 多模态 AI 产品的**服饰 AIGC 评测**实践：审美七维 Rubric（主观审美→可执行评分标准）｜ LLM 裁判偏差实证（位置偏置 87.5%、量表违规、裕度探针）｜ 627 条断言 + 34 例黄金集回归 + 60+ 变异测试
 
