@@ -169,7 +169,7 @@ from statsmodels.stats.proportion import proportion_confint
 proportion_confint(x, n, alpha=0.05, method='wilson')                  # Wilson CI
 ```
 
-## 九、自测 5 题
+## 八、自测 5 题
 
 1. 为什么配对设计不能直接比两个通过率？
 2. b+c=20 用哪个版本公式？b+c=60 呢？
